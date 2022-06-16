@@ -36,3 +36,16 @@ body {
 .contentInternal {
     background-color: #460f6b;
 }
+.dmParent {
+    width: 100%;
+    position: relative;
+}
+.dm {
+    width: 99%;
+    padding-top: 5px;
+    padding-bottom:5px;
+    border-radius: 5px;
+    background-color: #22172973;
+    border: 1px solid #68289200;
+    color: #fff;
+}

@@ -4,8 +4,10 @@ const loadMainWindow = () => {
     const mainWindow = new BrowserWindow({
         width : 1200,
         height: 800,
+        frame: false,
         webPreferences: {
-            nodeIntegration: true
+            nodeIntegration: true,
+            
         }
     });
     mainWindow.loadFile(path.join(__dirname, './app/land.html'));
