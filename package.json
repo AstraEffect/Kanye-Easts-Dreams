@@ -1,0 +1,24 @@
+{
+  "name": "kanye-easts-dreams",
+  "version": "1.0.0",
+  "description": "That one shitty social media",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AstraEffect/Kanye-Easts-Dreams.git"
+  },
+  "author": "Saturn Maoudis, Jamie Critchlow, Mey Middleton, Josh",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/AstraEffect/Kanye-Easts-Dreams/issues"
+  },
+  "homepage": "https://github.com/AstraEffect/Kanye-Easts-Dreams#readme",
+  "dependencies": {
+    "electron": "^19.0.4",
+    "express": "^4.18.1"
+  }
+}

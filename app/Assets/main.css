@@ -1,0 +1,38 @@
+body {
+    background: #7d31af;
+}
+.app {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: start;
+} 
+.navBar {
+    padding: 0px;
+    margin-right: 10px;
+    border: 1px solid #682892;
+    border-radius: 5px;
+}
+.content {
+    padding: 0px;
+    margin: 0px;
+    border: 1px solid #682892;
+    border-radius: 5px;
+    background-color: #460f6b;
+}
+.navBarInternal {
+    background-color: #460f6b;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+.navBarItem {
+    padding: 20px;
+    border-radius: 40%;
+    background-color: #561f7a;
+    border: 1px solid #682892;
+}
+.contentInternal {
+    background-color: #460f6b;
+}
