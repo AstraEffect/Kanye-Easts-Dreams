@@ -6,7 +6,7 @@ console.log(message)
 
 app.post('/', (req, res) => {
     console.log('Got body:', req.body);
-    res.send('reveived: ' + req.body);
+    res.send('received: ' + req.body);
 });
 
 
