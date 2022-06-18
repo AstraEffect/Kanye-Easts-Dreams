@@ -1,7 +1,6 @@
 import requests
 from dmHandling import *
-message = "ping!"
+message = "ping"
 
-# r = requests.get('http://localhost:6969/')
-# message = r.text
-send = requests.post('http://localhost:4200/', data=message)
+reqResp = requests.post('http://localhost:4200/', data=message)
+response = reqResp.text

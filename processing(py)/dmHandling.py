@@ -1,4 +1,4 @@
 from main import *
 
-print("We received the following message: " + message)
+print("We received the following message: " + response)
 
