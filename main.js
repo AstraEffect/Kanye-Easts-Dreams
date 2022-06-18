@@ -1,4 +1,4 @@
-const { app, BrowserWindow } = require('electron');
+const { app, BrowserWindow, session } = require('electron');
 const path = require('path');
 const loadMainWindow = () => {
     const mainWindow = new BrowserWindow({
