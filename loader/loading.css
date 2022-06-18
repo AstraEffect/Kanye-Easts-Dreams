@@ -1,0 +1,13 @@
+body {
+    background-color: #460f6b;   
+}
+.loadInfoParent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+/* .loadInfo {
+    text-align: center;
+    color: rgb(92, 69, 69);
+} */

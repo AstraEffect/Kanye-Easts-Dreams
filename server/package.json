@@ -1,0 +1,19 @@
+{
+  "name": "serverhandler",
+  "version": "1.0.0",
+  "description": "Server Handler",
+  "main": "serverHandler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astraeffect/kanye-easts-dream.git"
+  },
+  "author": "Saturn Maoudis, Jamie Critchlow, Mey Middleton, Josh White, Caitlin",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/astraeffect/kanye-easts-dream/issues"
+  },
+  "homepage": "https://github.com/astraeffect/kanye-easts-dream#readme"
+}
