@@ -4,8 +4,10 @@ let userId = 'UYMUKJSSDNUUO7BYTW5QL4M9SM3RW9TAW92TV3KK'
 
 function verifyUser() {
     loadInfo.innerHTML = "verifying Id";
-
+    // request server handler to verify user
 }
+
+
 
 if (userId != '') {
     verifyUser();
